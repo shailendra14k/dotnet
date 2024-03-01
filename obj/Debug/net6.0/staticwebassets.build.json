@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "C/PHq1gPYHMOjAzTQ5rKNzTL11lPn7975YZUI3l7pgM=",
+  "Source": "CoreSqlLite",
+  "BasePath": "_content/CoreSqlLite",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
